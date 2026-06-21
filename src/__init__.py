@@ -1,0 +1,1 @@
+"""ValueQuant AI application package."""
